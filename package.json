@@ -9,7 +9,9 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@hebilicious/authjs-nuxt": "^0.2.0-beta.4",
     "@nuxt/devtools": "latest",
+    "@nuxtjs/color-mode": "^3.3.0",
     "@nuxtjs/svg": "^0.4.0",
     "@types/node": "^18.16.19",
     "autoprefixer": "^10.4.14",
@@ -18,6 +20,7 @@
     "tailwindcss": "^3.3.3"
   },
   "dependencies": {
-    "hooper": "^0.3.4"
+    "hooper": "^0.3.4",
+    "vue-slick-carousel": "^1.0.6"
   }
 }

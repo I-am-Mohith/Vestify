@@ -1,18 +1,18 @@
 <template>
     <div>
         <navBar/>
-        <header/>
+        <Header/>
     </div>
 </template>
 <script>
 import navBar from './navBar.vue';
-import header from './header.vue';
+import Header from './Header.vue';
 import footer from './footer.vue';
 
 export default defineComponent({
     components: {
         navBar,
-        header,
+        Header,
         footer
     }
 })
