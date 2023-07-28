@@ -10,5 +10,5 @@ export default defineNuxtConfig({
   },
 
   devtools: { enabled: true },
-  modules: ['@nuxtjs/color-mode', '@hebilicious/authjs-nuxt'],
+  modules: ['@nuxtjs/color-mode', ],
 })
