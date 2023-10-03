@@ -1,7 +1,7 @@
 <template>
   <div>
     <nav class="border-red-500">
-      <div class="flex flex-row gap-3 h-10 bg-teal-500 text-white">
+      <div class="flex flex-row gap-3 h-15 bg-teal-500 text-white">
         <a href="/"><img class="h-8 " src="../assets/icons/logo.png" alt=""></a>
         <div>
             <a class="mx-2" href="#">Home </a>
